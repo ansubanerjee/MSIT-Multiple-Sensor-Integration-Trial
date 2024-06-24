@@ -1,0 +1,17 @@
+SIM900A	        TX	GPIO12 (RX)
+                RX	GPIO13 (TX)
+                GND	GND
+                VCC	5V
+
+SHT85	          SCL	GPIO9 (I2C SCL)
+                SDA	GPIO8 (I2C SDA)
+                GND	GND
+                VCC	3.3V
+
+SEN0244 TDS	    AO 	GPIO4 (A0)
+                GND	GND
+                VCC	5V
+
+pH Sensor	      AO	GPIO5 (A1)
+                GND	GND
+                VCC	5V
